@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "Completed Redirect",
+      "body": "Here the user should be redirected to the homepage",
+      "author": "Awsaf",
+      "id": 4
+    }
+  ]
+}
